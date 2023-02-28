@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #0074D9;
+	color: #FFF;
+	padding: 10px;
+}
+
+h1 {
+	margin: 0;
+}
+
+main {
+	padding: 20px;
+}
+
+form label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+form input {
+	display: block;
+	margin-bottom: 20px;
+	padding: 5px;
+	border: 1px solid #DDD;
+}
+
+form button {
+	padding: 5px 10px;
+	background-color: #0074D9;
+	color: #FFF;
+	border: none;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+thead {
+	background-color: #EEE;
+}
+
+th {
+	padding: 10px;
+	text-align: left;
+}
+
+td {
+	padding: 10px;
+	border: 1px solid #DDD;
+}
+
+input[type="text"] {
+	width: 50px;
+	text-align: center;
+}
